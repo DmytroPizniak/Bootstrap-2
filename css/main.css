@@ -1,0 +1,24 @@
+
+p {
+    font-size: 25px;
+}
+.img-block {
+    background: url(https://look.com.ua/pic/201306/1920x1200/look.com.ua-71627.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    background-color: #333;
+}
+.img-block2 {
+    background: url(https://look.com.ua/pic/201706/1920x1080/look.com.ua-220097.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: multiply;
+    background-color: #333;
+}
